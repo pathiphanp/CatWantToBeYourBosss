@@ -11,6 +11,8 @@ public class PlayerControl : MonoBehaviour
     public Vector3 Vec;
     public Animator animator;
 
+
+
     public float rotationSpeed;
     public float speed;
     public float JumpHeight;
@@ -26,7 +28,7 @@ public class PlayerControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Movement();
+        //Movement();
         isAnimate();
     }
 
@@ -79,5 +81,10 @@ public class PlayerControl : MonoBehaviour
         {
             animator.SetBool("IsWalk", false);
         }
+    }
+
+    void Movement2D()
+    {
+
     }
 }
