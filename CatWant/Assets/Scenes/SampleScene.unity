@@ -307,7 +307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 172807982}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Walk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -346,7 +346,7 @@ GameObject:
   m_Component:
   - component: {fileID: 216601979}
   - component: {fileID: 216601980}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -428,7 +428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 218523219}
   - component: {fileID: 218523220}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -832,7 +832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 421926685}
   - component: {fileID: 421926686}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: CatIdle_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -915,7 +915,7 @@ GameObject:
   - component: {fileID: 496158655}
   - component: {fileID: 496158654}
   - component: {fileID: 496158656}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Player2DCat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1172,7 +1172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 601915821}
   - component: {fileID: 601915822}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1253,7 +1253,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 640065972}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Idle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1289,7 +1289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 698050831}
   - component: {fileID: 698050832}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: CatIdle_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1453,7 +1453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 770542498}
   - component: {fileID: 770542499}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1535,7 +1535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 782302928}
   - component: {fileID: 782302929}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: CheckCircle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1633,7 +1633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 877415630}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1666,7 +1666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 891668344}
   - component: {fileID: 891668345}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2076,7 +2076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1063382996}
   - component: {fileID: 1063382997}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: CatIdle_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2158,7 +2158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1079118655}
   - component: {fileID: 1079118656}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: CatIdle_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2240,7 +2240,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1117269011}
   - component: {fileID: 1117269012}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2322,7 +2322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166510534}
   - component: {fileID: 1166510535}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6784,7 +6784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1242424757}
   - component: {fileID: 1242424758}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: Cat_Practice-Sheet_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7233,7 +7233,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1887336419}
   - component: {fileID: 1887336420}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: CatIdle_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7479,7 +7479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2147219964}
   - component: {fileID: 2147219965}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: BodyHitBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
